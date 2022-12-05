@@ -38,7 +38,7 @@ First we Run Create Preceptron1.py
 Then prepare_data.py
 Then we crate sepreate file for or gate, and gate and xor gate --> run it.
 in above file we are saving model 
-then last we plot the gate 
+then last we plot the gate.
 # eg.or gate
 ![or](https://user-images.githubusercontent.com/59029708/205628889-526455c3-e118-41fa-8640-12bc9f7b162b.png)
 
